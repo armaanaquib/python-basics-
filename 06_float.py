@@ -40,6 +40,9 @@ print(f"{z:,}")
 
 """
 x=999, y=1  --> z=1,000 --------> US based system
+The , tells Python: “Insert commas as thousands separators.”
+
+, is called format specifier
 """
 #----------------------------------------------------
 
@@ -52,6 +55,7 @@ print(f"{z}")
 
 """
 2/3 --> 0.6666666666666666
+
 """
 
 
